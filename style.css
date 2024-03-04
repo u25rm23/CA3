@@ -1,0 +1,39 @@
+body {
+  font-family: "Segoe UI";
+}
+
+.jumbotron {
+  background-color: blue;
+  color: rgb(255, 255, 255);
+}
+.jumbotron h1,p {
+  text-align: center;
+}
+.jumbotron p{
+  font-size: 24px;
+}
+p {
+  text-align: left;
+  font-size: 200%;
+}
+.col-sm-6 {
+  padding: 0px 2%;
+  margin-top: 2%;
+}
+.col-sm-6 p {
+  text-align: center;
+}
+.navbar.navbar-default {
+  background-color: blue;
+  font-size: 24px;
+}
+.nav.navbar-nav li a {
+  color: white;
+}
+.nav.navbar-nav li a:hover{
+  color: rgb(201, 201, 201)
+}
+.map {
+  text-align: center;
+  margin-top: 10%;
+}
