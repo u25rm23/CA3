@@ -3,7 +3,7 @@ body {
 }
 
 .jumbotron {
-  background-color: blue;
+  background-color: rgb(25, 25, 221);
   color: rgb(255, 255, 255);
 }
 .jumbotron h1,p {
@@ -24,7 +24,7 @@ p {
   text-align: center;
 }
 .navbar.navbar-default {
-  background-color: blue;
+  background-color: rgb(25, 25, 221);
   font-size: 24px;
 }
 .nav.navbar-nav li a {
@@ -33,7 +33,24 @@ p {
 .nav.navbar-nav li a:hover{
   color: rgb(201, 201, 201)
 }
+.map iframe {
+  margin-top: 2%;
+}
 .map {
   text-align: center;
-  margin-top: 10%;
+}
+.large-space {
+  margin-bottom: 50%;
+}
+.card p {
+  font-size: 80%;
+}
+
+img {
+  border-radius: 3%;
+}
+
+.img2 {
+  text-align: center;
+  margin-top: 5%;
 }
